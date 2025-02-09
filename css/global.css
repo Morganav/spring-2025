@@ -1,7 +1,7 @@
 /* Colors */
 
 /*
-60% of #52ad8d -Primary
+60% of #1D4036 -Primary
 30% of #8d52ad -Secondary
 10% of #ad8d52 -Accent
 */
@@ -9,7 +9,7 @@
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #52ad8d;
+--primaryColor: #1D4036;
 
 /* var(--secondaryColor) !important; */
 --secondaryColor: #8d52ad;
