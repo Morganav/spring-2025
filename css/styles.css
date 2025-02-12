@@ -2,5 +2,46 @@
 @import 'main.css';
 
 .col {
-    border: 1px solid black
+    border: 1px solid black;
 }
+
+.col:nth-of-type(2) {
+    background-color: magenta;
+}
+
+.col:nth-of-type(3) {
+    background-color: blue;
+}
+
+.col:nth-of-type(4) {
+    background-color: blueviolet;
+}
+
+.col:nth-of-type(5) {
+    background-color: goldenrod;
+}
+
+.col:nth-of-type(6) {
+    background-color: gold;
+}
+
+.col:nth-of-type(7) {
+    background-color: mediumblue;
+}
+
+.col:nth-of-type(8) {
+    background-color: mediumseagreen;
+}
+
+.col:nth-of-type(9) {
+    background-color: mediumturquoise;
+}
+
+.col:nth-of-type(10) {
+    background-color: mediumorchid;
+}
+
+.col:nth-of-type(11) {
+    background-color: mediumaquamarine;
+}
+
