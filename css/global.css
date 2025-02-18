@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+
 /* Colors */
 
 /*
@@ -16,4 +20,8 @@
 
 /* var(--accentColor) !important; */
 --accentColor: #ad8d52;
+
+/* var(--fontFamily) !important; */
+--fontFamily: "Atkinson Hyperlegible Next", serif;
+
 }
