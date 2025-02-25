@@ -14,3 +14,9 @@ p {
     background-color: var(--accentColor) !important;
     padding: 50px;
 }
+
+
+.Paragraph-one {
+    position:relative;
+    float:right;
+}
