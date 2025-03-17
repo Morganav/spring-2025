@@ -46,7 +46,7 @@ class Header extends HTMLElement {
         </div>
       </nav>
       <!-- end navbar -->
-    </header> -->
+    </header> 
     
 
             `;
