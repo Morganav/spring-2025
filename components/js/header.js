@@ -47,9 +47,11 @@ class Header extends HTMLElement {
       </nav>
       <!-- end navbar -->
     </header> -->
+    
 
             `;
     }
   }
   
   customElements.define('header-component', Header);
+  
