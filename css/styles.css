@@ -16,7 +16,7 @@ p {
 }
 
 .footer-fa-container {
-    background-color: var(grey) !important;
+    background-color: var(--accentColor) !important;
     padding: 50px;
 }
 
