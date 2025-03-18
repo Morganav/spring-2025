@@ -15,6 +15,11 @@ p {
     padding: 50px;
 }
 
+.footer-fa-container {
+    background-color: var(--accentColor) !important;
+    padding: 50px;
+}
+
 
 .Paragraph-one-img {
     position: relative;
