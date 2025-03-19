@@ -15,6 +15,11 @@ p {
     padding: 50px;
 }
 
+.title-fa-container {
+    background-color: var(--accentColor) !important;
+    padding: 25px;
+}
+
 .footer-fa-container {
     background-color: var(--secondaryColor) !important;
     padding: 10px;
