@@ -23,6 +23,7 @@ p {
 .footer-fa-container {
     background-color: var(--secondaryColor) !important;
     padding: 40px;
+    color: #ffffff;
 }
 
 .about-us-title {
