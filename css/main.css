@@ -29,3 +29,10 @@ blockquote::before {
 
 }
 
+blockquote cite {
+    color: var(--accentColor) !important;
+    font-size: 14px;
+    display: block;
+    
+
+}
