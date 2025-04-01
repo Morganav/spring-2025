@@ -17,7 +17,7 @@ blockquote {
     color: var(--accentColor) !important;
 }
 
-.blockquote::before {
+blockquote::before {
     display: block;
     padding-left: 10px;
     font-size: 80px;
@@ -28,3 +28,4 @@ blockquote {
     content: "\201c";
 
 }
+
