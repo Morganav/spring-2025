@@ -7,7 +7,12 @@ p {
 
 .blinn-fa-icon {
     font-size: 60px;
-    color: #fff;
+    color: #ffffff;
+}
+
+.blinn-fa-icon a {
+    color: #ffffff !important;
+
 }
 
 .blinn-fa-container {
