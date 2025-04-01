@@ -54,5 +54,5 @@ p {
     background-color: var(--secondaryColor) !important;
     clip-path: polygon(0 0, 100% 0%, 71% 47%, 29% 47%);
     position: relative;
-    margin-top: -5px;
+    margin-top: -1px;
 }
