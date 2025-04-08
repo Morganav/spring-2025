@@ -54,3 +54,7 @@
 .content-table tbody tr {
     background-color: #f3f3f3;
 }
+
+.content-table tbody tr:nth-of-type(even) {
+    border-bottom: 1px solid #dddddd;
+}
