@@ -13,7 +13,7 @@
     width: 100%;
     max-width: 1000px;
     margin: auto;
-    background-color: #fffffd;
+    background-color: #fffffd !important;
     padding: 25px;
     margin-bottom: 0;
 
