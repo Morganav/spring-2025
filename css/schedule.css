@@ -1,23 +1,21 @@
 @import 'global.css';
 @import 'main.css';
-@import 'styles.css';
+@import 'styles.css'
 
-.wrapper-body {
-    background-image: url("/images/background-image.jpg") ;
+.wrapper.body {
+    background-image: url("/images/background-image.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-
 }
 
 .wrapper-main {
     width: 100%;
     max-width: 1000px;
     margin: auto;
-    background-color: #fffffd !important;
+    background-color:  #fffffd !important;
     padding: 25px;
     margin-bottom: 0;
-
 }
 
 .wrapper-content {
@@ -28,7 +26,7 @@
 
 .content-table {
     border-collapse: collapse;
-    width: 100%;
+    width:100%;
     max-width: 1000px;
     margin: auto;
     text-align: center;
@@ -37,24 +35,17 @@
 .content-table thead tr th {
     background-color: var(--primaryColor) !important;
     color: #ffffff;
-
 }
 
-.content-table th, 
+.content-table th,
 .content-table td {
     padding: 12px;
-
 }
-/*
+
 .content-table tbody tr {
     border-bottom: 1px solid #dddddd;
-    
-} 
-*/
-.content-table tbody tr {
-    background-color: #f3f3f3;
 }
 
 .content-table tbody tr:nth-of-type(even) {
-    border-bottom: 1px solid #dddddd;
+    background-color: #f3f3f3;
 }
