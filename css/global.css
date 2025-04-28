@@ -19,7 +19,8 @@
 --secondaryColor: #8d52ad;
 
 /* var(--accentColor) !important; */
---accentColor: #ad8d52;
+--accentColor: #65532F;
+/*Old accent color: ad8d52*/
 
 /* var(--fontFamily) !important; */
 --fontFamily: "Atkinson Hyperlegible Next", serif;
