@@ -10,6 +10,10 @@ p {
     color: #ffffff;
 }
 
+.blinn-fa-icon:hover {
+    transform: scale(1.1);
+}
+
 .blinn-fa-container a {
     color: #ffffff !important;
 
@@ -64,4 +68,9 @@ p {
     border: 10px solid var(--accentColor) !important;
     border-radius: 50%;
     clip-path: circle(50% at 50% 50%);
+}
+
+.headshots {
+    position: relative;
+    margin-bottom: 30px;
 }
